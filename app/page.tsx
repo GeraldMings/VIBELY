@@ -2,6 +2,7 @@ export default function Home() {
   return (
     <main>
       <h1>Vibely</h1>
+
       <h2>Meet. Chat. Connect.</h2>
 
       <p>
